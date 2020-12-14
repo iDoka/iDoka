@@ -1,8 +1,8 @@
 ### Hi, it's me
 
 
-![twitter badge](https://img.shields.io/badge/twitter-@iDoka_ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
-![website badge](https://img.shields.io/badge/website-iDoka.ru-green?style=flat-square&link=http://idoka.ru)
+![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
+![website badge](https://img.shields.io/badge/website-iDoka.ru-brightgreen?style=flat-square&link=http://idoka.ru)
 
 
 <!--
@@ -13,7 +13,7 @@
 -->
 
 
-- 🔭 I'm currently working on various project in Embedded area (FPGA, Automotive, Reverse Engineering)
+- 🔭 I'm currently working on various projects in Embedded area (FPGA, Automotive, Reverse Engineering)
 - 🌱 I'm currently learning programming uC on Embedded Systems
 - 👯 I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
 - 💬 Ask me about FPGA and ASIC design
