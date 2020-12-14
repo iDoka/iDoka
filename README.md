@@ -21,12 +21,12 @@
 - ⚡ Fun fact: Linux big fan and iDevices ambassador at the same time
 
 
-#### My awesome lists:
+#### My awesome lists of ..:
 
-* [list of Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
-* [list of CANbus Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
-* [list of Sources and Libs for Embedded Systems](https://github.com/iDoka/awesome-embedded-software)
-* [list of repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
+* [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
+* [CANbus Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
+* [Sources and Libs for Embedded Systems](https://github.com/iDoka/awesome-embedded-software)
+* [Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
 
 
 <a href="https://github.com/iDoka/github-readme-stats">
