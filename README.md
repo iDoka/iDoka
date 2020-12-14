@@ -23,7 +23,7 @@
 
 #### My awesome lists:
 
-* [￼list of Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
+* [list of Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
 * [list of CANbus Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
 * [list of Sources and Libs for Embedded Systems](https://github.com/iDoka/awesome-embedded-software)
 * [list of repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
