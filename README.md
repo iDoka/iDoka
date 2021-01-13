@@ -1,9 +1,10 @@
 ### Hi, it's me
 
-
-![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
-![linkedin badge](https://img.shields.io/badge/linkedin-Dmitry_Murzinov-9cf?style=flat-square&link=https://linkedin.com/in/idoka&logo=linkedin)
 ![website badge](https://img.shields.io/badge/website-iDoka.ru-brightgreen?style=flat-square&link=http://idoka.ru)
+![linkedin badge](https://img.shields.io/badge/linkedin-Dmitry_Murzinov-9cf?style=flat-square&link=https://linkedin.com/in/idoka&logo=linkedin)
+![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
+
+
 
 <!--
 [![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka)](https://github.com/iDoka/github-readme-stats)
