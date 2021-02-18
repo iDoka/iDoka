@@ -3,6 +3,7 @@
 ![website badge](https://img.shields.io/badge/website-iDoka.ru-brightgreen?style=flat-square&link=http://idoka.ru)
 ![linkedin badge](https://img.shields.io/badge/linkedin-Dmitry_Murzinov-9cf?style=flat-square&link=https://linkedin.com/in/idoka&logo=linkedin)
 ![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
+![visitors badge](https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=pink&style=flat-square)
 
 <img src="https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blue&style=flat-square" alt="iDoka" />
 
