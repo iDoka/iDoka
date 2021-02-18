@@ -2,14 +2,13 @@
 
 ![website badge](https://img.shields.io/badge/website-iDoka.ru-brightgreen?style=flat-square&link=http://idoka.ru)
 ![linkedin badge](https://img.shields.io/badge/linkedin-Dmitry_Murzinov-9cf?style=flat-square&link=https://linkedin.com/in/idoka&logo=linkedin)
-![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
+[![Twitter: iDoka_ru](https://img.shields.io/twitter/follow/iDoka_ru?style=social)](https://twitter.com/iDoka_ru)
 ![visitors badge](https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blueviolet&style=flat-square)
 
-
-[![Twitter: iDoka_ru](https://img.shields.io/twitter/follow/iDoka_ru?style=social)](https://twitter.com/iDoka_ru)
-[![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry-Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
+[![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry_Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
 
 <!--
+![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blue&style=flat-square" alt="iDoka" />
 </p>
