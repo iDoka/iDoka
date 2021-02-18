@@ -1,6 +1,6 @@
 ### Hi, it's me
 
-![website badge](https://img.shields.io/badge/website-iDoka.ru-brightgreen?style=flat-square&link=http://idoka.ru)
+![website badge](https://img.shields.io/badge/website-iDoka.ru-9cf?style=flat-square&link=http://idoka.ru)
 [![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry_Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
 [![Twitter: iDoka_ru](https://img.shields.io/twitter/follow/iDoka_ru?style=social)](https://twitter.com/iDoka_ru)
 ![visitors badge](https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blueviolet&style=flat-square)
