@@ -38,6 +38,10 @@
 </a>
 
 
+<div align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iDoka&label=Views&color=blue&style=plastic" alt="iDoka" /> </p>
+</div>
+
 
 
 
