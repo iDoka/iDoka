@@ -5,6 +5,10 @@
 ![twitter badge](https://img.shields.io/badge/twitter-@iDoka__ru-blue?style=flat-square&link=https://twitter.com/idoka_ru&logo=twitter)
 ![visitors badge](https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blueviolet&style=flat-square)
 
+
+[![Twitter: iDoka_ru](https://img.shields.io/twitter/follow/iDoka_ru?style=social)](https://twitter.com/iDoka_ru)
+[![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry-Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
+
 <!--
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blue&style=flat-square" alt="iDoka" />
