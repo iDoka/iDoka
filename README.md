@@ -41,14 +41,15 @@
 
 
 
-[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/iDoka/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=10&hide_title=true&layout=compact)](https://github.com/iDoka/github-readme-stats)
+[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide=total%20prs&theme=tokyonight)](https://github.com/iDoka/iDoka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=10&hide_title=true&layout=compact)](https://github.com/iDoka/)iDoka
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=5&hide_title=true)](https://github.com/iDoka/github-readme-stats)
 
 
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=5&hide_title=true)](https://github.com/iDoka/github-readme-stats)
+
 <a href="https://github.com/iDoka/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&show_icons=true" />
 </a>
