@@ -40,17 +40,18 @@
 * [Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
 
 
+
+![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook&theme=radical)
+
+<!--
 <a href="https://github.com/iDoka/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/iDoka/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook" />
 </a>
-
-
-
-
-
+-->
 
 
 <!--
