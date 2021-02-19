@@ -32,6 +32,12 @@
 - ⚡ Fun fact: Linux big fan and iDevices ambassador at the same time
 
 
+#### My Github stats
+
+[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/)
+
+
 #### My awesome lists of ..:
 
 * [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
@@ -41,8 +47,9 @@
 
 
 
-[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/)
+[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&theme=gotham)](https://github.com/iDoka/awesome-canbus)
+
+
 
 
 
