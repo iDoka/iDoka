@@ -48,7 +48,7 @@
 <br/>
 
 [![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&theme=gotham)](https://github.com/iDoka/awesome-canbus)
-[![CAN ID Databases by Car Vendors](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&theme=tokyonight)](https://github.com/iDoka/awesome-automotive-can-id)
+[![CAN ID Databases by Car Vendors](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&theme=gotham)](https://github.com/iDoka/awesome-automotive-can-id)
 [![Sources and Libs for Embedded Systems](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&theme=gotham)](https://github.com/iDoka/awesome-embedded-software)
 [![Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github-readme-stats.vercel.app/api/pin/?username=iDoka&repo=awesome-fpga-boards&theme=gotham)](https://github.com/iDoka/awesome-fpga-boards)
 
