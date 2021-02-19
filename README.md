@@ -42,7 +42,7 @@
 
 
 ![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=4&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=4)
 
 <!--
 <a href="https://github.com/iDoka/github-readme-stats">
