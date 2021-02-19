@@ -41,8 +41,8 @@
 
 
 
-[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&theme=tokyonight)](https://github.com/iDoka/iDoka)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=10&hide_title=true&layout=compact)](https://github.com/iDoka/)
+[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=gotham)](https://github.com/iDoka/iDoka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&hide_border=true&theme=gotham&langs_count=10&hide_title=true&layout=compact)](https://github.com/iDoka/)
 
 
 
