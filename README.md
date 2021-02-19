@@ -41,7 +41,7 @@
 
 
 
-![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&show_icons=true&theme=tokyonight)
+![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook&theme=tokyonight)
 
 <!--
