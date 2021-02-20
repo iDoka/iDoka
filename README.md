@@ -33,7 +33,7 @@
 
 
 #### My Github stats
-_best view in darkmode_
+_(best view in darkmode)_
 
 [![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/)
@@ -46,7 +46,7 @@ _best view in darkmode_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=vue)](https://github.com/iDoka/)
 <![endif]-->
 
-#### My awesome lists of ..:
+#### My awesome lists of ..
 
 * [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
 * [CAN ID Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
