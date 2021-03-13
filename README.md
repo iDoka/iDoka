@@ -3,6 +3,7 @@
 [![website badge](https://img.shields.io/badge/website-iDoka.ru-9cf?style=flat-square&link=http://idoka.ru)](http://idoka.ru)
 [![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry_Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
 [![Twitter: iDoka_ru](https://img.shields.io/twitter/follow/iDoka_ru?style=social)](https://twitter.com/iDoka_ru)
+[![GitHub followers](https://img.shields.io/github/followers/iDoka.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iDoka?tab=followers)
 ![visitors badge](https://komarev.com/ghpvc/?username=iDoka&label=Visits&color=blueviolet&style=flat-square)
 
 
