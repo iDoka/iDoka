@@ -28,7 +28,7 @@
 - 🔭 I'm currently working on various projects in Embedded area (FPGA, Automotive, Reverse Engineering)
 - 🌱 I'm currently learning programming µC on Embedded Systems
 - 👯 I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
-- 💬 Ask me about FPGA and ASIC design or any Hardware related stuff
+- :left_speech_bubble: Ask me about FPGA and ASIC design or any Hardware related stuff
 - ⚡ Fun fact: OS Linux big fan and iDevices user at the same time
 
 
