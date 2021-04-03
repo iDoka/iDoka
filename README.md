@@ -36,7 +36,7 @@
 <!-- ## Where to find me -->
 
 - :telegram: https://t.me/iDoka
-- :keybase: https://keybase.io/idoka
+- :mrs_claus: https://keybase.io/idoka
 - :octocat: https://github.com/iDoka
 - :bird: https://twitter.com/idoka_ru
 
@@ -47,7 +47,7 @@
 _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 
 
-## My Github stats
+## :octocat: My Github stats
 _(best view in darkmode)_
 
 [![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)
