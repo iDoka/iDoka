@@ -32,7 +32,7 @@
 - ⚡ Fun fact: OS Linux big fan and iDevices user at the same time
 
 
-## 📫 How to reach me
+## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
 - :airplane: https://t.me/iDoka
