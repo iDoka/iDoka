@@ -1,4 +1,4 @@
-### Hi, it's me
+# Dmitry Murzinov
 
 [![website badge](https://img.shields.io/badge/website-iDoka.ru-9cf?style=flat-square&link=http://idoka.ru)](http://idoka.ru)
 [![Linkedin: Dmitry Murzinov](https://img.shields.io/badge/-Dmitry_Murzinov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idoka/)](https://www.linkedin.com/in/idoka)
