@@ -35,13 +35,13 @@
 ## 📫 How to reach me
 <!-- ## Where to find me -->
 
-- :telegram: https://t.me/iDoka
+- :airplane: https://t.me/iDoka
 - :mrs_claus: https://keybase.io/idoka
 - :octocat: https://github.com/iDoka
 - :bird: https://twitter.com/idoka_ru
 
 
-## :mega: Recent Talks
+## :loudspeacker: Recent Talks
 
 - :speech_balloon: [DNN on FPGA, a Case Study](https://youtube.com/watch?v=Gu6XfKvV1tw)<br />
 _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
