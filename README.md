@@ -41,7 +41,7 @@
 - :bird: https://twitter.com/idoka_ru
 
 
-## :loudspeacker: Recent Talks
+## :loudspeaker: Recent Talks
 
 - :speech_balloon: [DNN on FPGA, a Case Study](https://youtube.com/watch?v=Gu6XfKvV1tw)<br />
 _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
