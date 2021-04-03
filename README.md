@@ -29,11 +29,25 @@
 - 🌱 I'm currently learning programming µC on Embedded Systems
 - 👯 I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
 - 💬 Ask me about FPGA and ASIC design or any Hardware related stuff
-- 📫 How to reach me: Keybase|Telegram|Github 
-- ⚡ Fun fact: Linux big fan and iDevices ambassador at the same time
+- ⚡ Fun fact: OS Linux big fan and iDevices user at the same time
 
 
-#### My Github stats
+## 📫 How to reach me
+<!-- ## Where to find me -->
+
+- :telegram: https://t.me/iDoka
+- :keybase: https://keybase.io/idoka
+- :octocat: https://github.com/iDoka
+- :bird: https://twitter.com/idoka_ru
+
+
+## :mega: Recent Talks
+
+- :speech_balloon: [DNN on FPGA, a Case Study Deepware](youtube.com/watch?v=Gu6XfKvV1tw)<br />
+_ODS DataFest 2020, AI Hardware track, Online event - September 2020_
+
+
+## My Github stats
 _(best view in darkmode)_
 
 [![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)
@@ -47,7 +61,7 @@ _(best view in darkmode)_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=vue)](https://github.com/iDoka/)
 <![endif]-->
 
-#### My awesome lists of ..
+## My awesome lists of ..
 
 * [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
 * [CAN ID Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
