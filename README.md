@@ -62,6 +62,8 @@ _(best view in darkmode)_
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=vue)](https://github.com/iDoka/)
 <![endif]-->
 
+---
+
 ## My awesome lists of ..
 
 * [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
