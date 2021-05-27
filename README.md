@@ -29,7 +29,7 @@
 - 🌱 I'm currently learning programming µC on Embedded Systems
 - 👯 I'm looking to collaborate on challenging project (mostly in Digital Design|Embedded Systems)
 - :left_speech_bubble: Ask me about FPGA and ASIC design or any Hardware related stuff
-- ⚡ Fun fact: OS Linux big fan and iDevices user at the same time
+- ⚡ Fun fact: I own a Volvo car and talk way too much about it
 
 
 ## :mailbox: How to reach me
