@@ -43,7 +43,7 @@
 
 ## :loudspeaker: Recent Talks
 
-- :speech_balloon: [Implementation Cryptography on FPGA (a pragmatic approach)](https://youtube.com/watch?v=4SAvu3MPAww)<br />
+- :speech_balloon: [Implementation Cryptography on FPGA (a pragmatic approach)](https://youtube.com/watch?v=4SAvu3MPAww?t=14)<br />
 _FPGA-Systems Conference 2021.1, Skolkovo, Russia - April 2021_
 - :speech_balloon: [DNN on FPGA, a Case Study](https://youtube.com/watch?v=Gu6XfKvV1tw)<br />
 _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
