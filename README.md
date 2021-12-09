@@ -43,6 +43,8 @@
 
 ## :loudspeaker: Recent Talks
 
+- :speech_balloon: [Yet Another FPGA Mezzanine (DOKARD)](https://youtu.be/PApwbDiyf7Y?t=21)<br />
+_FPGA-Systems Conference 2021.2, Moscow, Russia - November 2021_
 - :speech_balloon: [Implementation Cryptography on FPGA (a pragmatic approach)](https://youtu.be/4SAvu3MPAww?t=14)<br />
 _FPGA-Systems Conference 2021.1, Skolkovo, Russia - April 2021_
 - :speech_balloon: [DNN on FPGA, a Case Study](https://youtube.com/watch?v=Gu6XfKvV1tw)<br />
