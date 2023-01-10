@@ -35,6 +35,8 @@
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
+You can leave me a message via [GitHub Discussion](https://github.com/iDoka/iDoka/discussions?discussions_q=category%3AGuestbook)
+
 - :airplane: https://t.me/iDoka
 - :mrs_claus: https://keybase.io/idoka
 - :octocat: https://github.com/iDoka
