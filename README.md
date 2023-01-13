@@ -57,8 +57,8 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 _(best view in darkmode)_
 <!--[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)-->
 
-[![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&theme=chartreuse-dark&hide=prs)](https://github.com/iDoka/iDoka)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/)
+[![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&theme=transparent&hide=prs)](https://github.com/iDoka/iDoka)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=transparent)](https://github.com/iDoka/)
 
 <!-- [if darkmode]>
 <![endif]-->
