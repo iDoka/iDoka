@@ -54,22 +54,14 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 
 
 ## :octocat: My Github stats
-<!-- _(best view in darkmode)_ -->
-<!--[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)-->
 
+<!-- ************* light ************* -->
 [![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/iDoka#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka#gh-light-mode-only)
 
+<!-- ************* dark ************* -->
 [![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=vue-dark#gh-dark-mode-only)](https://github.com/iDoka/iDoka#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&theme=vue-dark#gh-dark-mode-only)](https://github.com/iDoka#gh-dark-mode-only)
-
-<!-- [if darkmode]>
-<![endif]-->
-<!-- [if !darkmode]>
-[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=vue)](https://github.com/iDoka/iDoka)
-38
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=vue)](https://github.com/iDoka/)
-<![endif]-->
 
 ---
 
@@ -82,10 +74,17 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 
 <br/>
 
-[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&theme=gotham&bg_color=00000000)](https://github.com/iDoka/awesome-canbus)
-[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&theme=gotham&bg_color=00000000)](https://github.com/iDoka/awesome-automotive-can-id)
-[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&theme=transparent&bg_color=00000000)](https://github.com/iDoka/awesome-embedded-software)
-[![Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-fpga-boards&theme=transparent&bg_color=00000000)](https://github.com/iDoka/awesome-fpga-boards)
+<!-- ************* light ************* -->
+[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-canbus#gh-light-mode-only)
+[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-light-mode-only)
+[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-light-mode-only)
+[![Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-fpga-boards&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-fpga-boards#gh-light-mode-only)
+
+<!-- ************* dark ************* -->
+[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-canbus#gh-dark-mode-only)
+[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-dark-mode-only)
+[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-dark-mode-only)
+[![Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-fpga-boards&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-fpga-boards#gh-dark-mode-only)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=5&hide_title=true)](https://github.com/iDoka/github-readme-stats)
