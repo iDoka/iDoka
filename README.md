@@ -57,7 +57,7 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 _(best view in darkmode)_
 <!--[![iDoka's github stats](https://github-readme-stats.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=chartreuse-dark)](https://github.com/iDoka/iDoka)-->
 
-[![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&theme=transparent&bg_color=00000000&hide=prs)](https://github.com/iDoka/iDoka)
+[![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&theme=blue-green&bg_color=00000000&hide=prs)](https://github.com/iDoka/iDoka)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&theme=transparent&bg_color=00000000)](https://github.com/iDoka/)
 
 <!-- [if darkmode]>
@@ -79,7 +79,7 @@ _(best view in darkmode)_
 
 <br/>
 
-[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&theme=gotham)](https://github.com/iDoka/awesome-canbus)
+[![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&theme=gotham&bg_color=00000000)](https://github.com/iDoka/awesome-canbus)
 [![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&theme=gotham)](https://github.com/iDoka/awesome-automotive-can-id)
 [![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&theme=gotham)](https://github.com/iDoka/awesome-embedded-software)
 [![Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-fpga-boards&theme=gotham)](https://github.com/iDoka/awesome-fpga-boards)
