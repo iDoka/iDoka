@@ -55,6 +55,7 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 
 ## :octocat: My Github stats
 
+<!-- Hint: https://github.com/anuraghazra/github-readme-stats -->
 <!-- ************* light ************* -->
 [![iDoka's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iDoka&count_private=true&hide_rank=true&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&hide=prs&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/iDoka#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&langs_count=10&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka#gh-light-mode-only)
