@@ -71,7 +71,7 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 * :tractor: [Tools, Hardware and Resources related to CAN bus](https://github.com/iDoka/awesome-canbus)
 * :articulated_lorry: [CAN ID Databases by Car Vendors](https://github.com/iDoka/awesome-automotive-can-id)
 * [Sources and Libs for Embedded Systems](https://github.com/iDoka/awesome-embedded-software)
-* [Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
+* :atm: [Repurposed FPGA boards which getting Second life in DYI/Hobby projects](https://github.com/iDoka/awesome-fpga-boards)
 
 <br/>
 
