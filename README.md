@@ -80,15 +80,17 @@ _ODS DataFest 2020, AI Hardware track, Online event - September 2020_
 
 <!-- ************* light ************* -->
 [![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-canbus#gh-light-mode-only)
-[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-light-mode-only)
-[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-light-mode-only)
 [![Helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-linbus&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-linbus#gh-light-mode-only)
+[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-light-mode-only)
+[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&bg_color=00000000&theme=transparent#gh-light-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-light-mode-only)
+
 
 <!-- ************* dark ************* -->
 [![Tools, Hardware and Resources related to CAN bus](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-canbus&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-canbus#gh-dark-mode-only)
-[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-dark-mode-only)
-[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-dark-mode-only)
 [![Helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-linbus&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-linbus#gh-dark-mode-only)
+[![Sources and Libs for Embedded Systems](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-embedded-software&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-embedded-software#gh-dark-mode-only)
+[![CAN ID Databases by Car Vendors](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iDoka&repo=awesome-automotive-can-id&hide_border=true&bg_color=00000000&theme=gotham#gh-dark-mode-only)](https://github.com/iDoka/awesome-automotive-can-id#gh-dark-mode-only)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDoka&hide=jupyter%20notebook,php&theme=tokyonight&langs_count=5&hide_title=true)](https://github.com/iDoka/github-readme-stats)
